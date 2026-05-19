@@ -14,7 +14,7 @@ Our research portfolio spans the design of new system-level solutions for data-i
 Visit our [website](https://amcr.lbl.gov/departments/computer-science-department/cag/) for more information.
 
 <p align="center">
-  <a href="https://amcr.lbl.gov/" target="_blank"><img src="https://amcr.lbl.gov/wp-content/uploads/2025/02/AMCR-Web-Dark-Blue.png" alt="AMCR Logo" height="50"></a>
+  <a href="https://amcr.lbl.gov/" target="_blank"><img src="https://amcr.lbl.gov/wp-content/uploads/2025/02/AMCR-Web-White.png" alt="AMCR Logo" height="50"></a>
   <a href="https://www.lbl.gov/" target="_blank"><img src="https://creative.lbl.gov/wp-content/uploads/sites/3/2020/07/14_BL_Alt_Stack_Rev.png" alt="LBL Logo" height="50"></a>
   &nbsp;
   <a href="https://www.energy.gov/science/office-science" target="_blank"><img src="https://www.energy.gov/sites/default/files/styles/full_article_width/public/2025-12/SC%20Logo%20-%20vertical%20-%20white%20lettering%20-%20co-brand%20png_0.png?itok=GMQR0CGP" alt="DOE Logo" height="50"></a>
