@@ -1,4 +1,4 @@
-# Computer Architecture Group (CAG)
+# LBNL Computer Architecture Group (CAG)
 
 - Website: [https://amcr.lbl.gov/departments/computer-science-department/cag/](https://amcr.lbl.gov/departments/computer-science-department/cag/)
 - Group Lead: [John Shalf](https://amcr.lbl.gov/profile/jshalf/)
