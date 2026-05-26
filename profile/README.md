@@ -1,6 +1,7 @@
 # LBNL Computer Architecture Group (CAG)
 
 - Website: [https://amcr.lbl.gov/departments/computer-science-department/cag/](https://amcr.lbl.gov/departments/computer-science-department/cag/)
+- Group Resources: [https://lbnlcomputerarch.github.io/](https://lbnlcomputerarch.github.io/)
 - Group Lead: [John Shalf](https://amcr.lbl.gov/profile/jshalf/)
 
 ![Close-up view of a blue printed circuit board featuring intricate pathways, labeled component positions, and a central area with a grid of holes for mounting an integrated chip. The board is marked with white alphanumeric labels such as C503, C504, and C507, indicating locations for electronic components.](https://amcr.lbl.gov/wp-content/uploads/2025/06/WWD-Advanced-Computing-CAG-Blue-Circuitboard-BLDS-Med-665.jpg)
